@@ -1,9 +1,10 @@
+"""
+TODO
+"""
+
 import argparse
-import c_parser
+from c_parser import parse
 
-
-def parse(c_code: str, jsn:str) -> None:
-    pass
 
 if __name__ == '__main__':
     my_args = argparse.ArgumentParser()
