@@ -1,2 +1,2 @@
-# Bitfieldiser
-Converts 0-1 logic array to bitfield
+# cparser
+Parses C syntax and outputs to json.
